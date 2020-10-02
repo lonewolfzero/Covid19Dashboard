@@ -13,8 +13,6 @@ https://coronavirus-track.herokuapp.com/
 * __Search__ for countries.
 * __Statistics__: Including the number of confirmed, recovered, and deaths, in addition to percents.
 
-## Author
-Furkan Kahveci (furkankahveci@hotmail.com.tr)
 
 ### Data
 Data is provided by JHU CSSE (https://github.com/CSSEGISandData/COVID-19).
@@ -29,6 +27,4 @@ Data is provided by JHU CSSE (https://github.com/CSSEGISandData/COVID-19).
 ## Contribute
 Please feel free to contribute pull requests or create issues for bugs and feature requests.
 
-## Contributors
-<img src="https://avatars0.githubusercontent.com/u/7875387?s=400&u=2676a160ca106c14d67b1b8c0e83e9c2ba04ea73&v=4" alt="drawing" width="100" height="100"/>
-<a href="https://github.com/satrianivzla" target="_blank">Simon</a>
+
